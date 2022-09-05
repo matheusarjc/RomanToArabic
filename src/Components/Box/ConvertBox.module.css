@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  margin-top: 1rem;
+}
+
+.container > span {
+  font-size: 1.4rem;
+  letter-spacing: 0.3rem;
+
+  color: var(--details);
+}

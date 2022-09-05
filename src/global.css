@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: var(--bgColor);
+}
+
+:root {
+  --bgColor: #4f4537;
+  --lowOrange: #ffc75f;
+  --details: #d5cbbd;
+  --boxColor: #937054;
+}
